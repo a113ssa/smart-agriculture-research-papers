@@ -1,4 +1,4 @@
-# Smart Agriculture Research papers collection
+# Smart Farming Research papers collection
 
 ### 🚜🌿 [A vision-based road detection system for the navigation of an agricultural autonomous tractor ](https://www.researchgate.net/publication/375221274_A_vision-based_road_detection_system_for_the_navigation_of_an_agricultural_autonomous_tractor)
 **Authors**: Sristi Saha, Tsuyoshi Morita, Noboru Noguchi <br/>
