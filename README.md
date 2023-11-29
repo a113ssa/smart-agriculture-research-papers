@@ -15,6 +15,11 @@
 **Keywords**: image segmentation, sliding window algorithm, lateral error, robot navigation, robot vision, road edge detection, precision agriculture <br/>
 **Date**: November, 2022 <br/><br/>
 
+### 🔒🌿 [ A Review on Security of Smart Farming and Precision Agriculture: Security Aspects, Attacks, Threats and Countermeasures ](https://www.mdpi.com/2076-3417/11/16/7518#B51-applsci-11-07518)
+**Authors**: Abbas Yazdinejad, Behrouz Zolfaghari, Amin Azmoodeh, Ali Dehghantanha, Hadis Karimipour, Evan Fraser, Arthur G. Green, Conor Russell, Emily Duncan <br/>
+**Keywords**: smart farming; precision agriculture; cyber-threats; advanced persistent threats; cyber-kill chain; security threats <br/>
+**Date**: August, 2021 <br/><br/>
+
 ### 🦾🌿 [Design and performance of a robotic arm for farm use](https://ijabe.org/index.php/ijabe/article/view/3721/pdf)
 **Authors**: Ali Roshanianfard, Noboru Noguchi, Tatsuki Kamata <br/>
 **Keywords**: agricultural robot, robotic arm, harvesting, modeling, simulation, design <br/>
