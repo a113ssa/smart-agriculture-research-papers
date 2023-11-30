@@ -5,6 +5,11 @@
 **Keywords**: image segmentation, sliding window algorithm, lateral error calculation, road edge detection, machine vision, precision agriculture <br/>
 **Date**: November, 2023 <br/><br/>
 
+### 🤖🌿 [ Motion-Control Strategy for a Heavy-Duty Transport Hexapod Robot on Rugged Agricultural Terrains ](https://www.mdpi.com/2077-0472/13/11/2131)
+**Authors**: Kuo Yang, Xinhui Liu, Changyi Liu, Ziwei Wang <br/>
+**Keywords**: agricultural robot; environmental adaptation; adaptive impedance control; unstructured terrain <br/>
+**Date**: November, 2023 <br/><br/>
+
 ### 🤖🌿 [ Recent Advancements in Agriculture Robots: Benefits and Challenges ](https://www.mdpi.com/2075-1702/11/1/48)
 **Authors**: Chao Cheng, Jun Fu, Hang Su, Luquan Ren <br/>
 **Keywords**: agriculture robot; complex environments; robot navigation; robot manipulation <br/>
