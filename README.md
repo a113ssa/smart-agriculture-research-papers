@@ -1,4 +1,9 @@
-# Smart Agricultural Robots Research papers collection
+# Smart Agricultural Research papers collection
+
+### 🍓🌿 [An Overview of Recent Advances in Greenhouse Strawberry Cultivation Using Deep Learning Techniques: A Review for Strawberry Practitioners ](https://www.mdpi.com/2073-4395/14/1/34)
+**Authors**: Jong-Won Yang, Hyun-Il Kim <br/>
+**Keywords**: precision farming; machine vision; deep learning; precision agriculture <br/>
+**Date**: December, 2023 <br/><br/>
 
 ### 🚜🌿 [A vision-based road detection system for the navigation of an agricultural autonomous tractor ](https://www.researchgate.net/publication/375221274_A_vision-based_road_detection_system_for_the_navigation_of_an_agricultural_autonomous_tractor)
 **Authors**: Sristi Saha, Tsuyoshi Morita, Noboru Noguchi <br/>
@@ -9,6 +14,11 @@
 **Authors**: Kuo Yang, Xinhui Liu, Changyi Liu, Ziwei Wang <br/>
 **Keywords**: agricultural robot; environmental adaptation; adaptive impedance control; unstructured terrain <br/>
 **Date**: November, 2023 <br/><br/>
+
+### 🔒🌿 [ Cyber Security for Detecting Distributed Denial of Service Attacks in Agriculture 4.0: Deep Learning Model ](https://www.mdpi.com/2227-7390/11/1/233)
+**Authors**: Theyazn H. H. Aldhyani, Hasan Alkahtani <br/>
+**Keywords**: deep leaning; Agriculture 4.0; food security; intrusion detection system; cybersecurity <br/>
+**Date**: January, 2023 <br/><br/>
 
 ### 🤖🌿 [ Recent Advancements in Agriculture Robots: Benefits and Challenges ](https://www.mdpi.com/2075-1702/11/1/48)
 **Authors**: Chao Cheng, Jun Fu, Hang Su, Luquan Ren <br/>
