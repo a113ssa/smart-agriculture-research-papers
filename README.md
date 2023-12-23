@@ -1,4 +1,4 @@
-# Smart Agricultural Research papers collection
+# Smart Agriculture Research papers collection
 
 ### 🍓🌿 [An Overview of Recent Advances in Greenhouse Strawberry Cultivation Using Deep Learning Techniques: A Review for Strawberry Practitioners ](https://www.mdpi.com/2073-4395/14/1/34)
 **Authors**: Jong-Won Yang, Hyun-Il Kim <br/>
