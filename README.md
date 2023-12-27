@@ -15,6 +15,11 @@
 **Keywords**: agricultural robot; environmental adaptation; adaptive impedance control; unstructured terrain <br/>
 **Date**: November, 2023 <br/><br/>
 
+### 💡🌿 [ Design and Implementation of Internet of Things (IoT) Platform Targeted for Smallholder Farmers: From Nepal Perspective ](https://www.mdpi.com/2077-0472/13/10/1900#sec4-agriculture-13-01900)
+**Authors**: Ritu Raj Lamsal, P. Karthikeyan, Pablo Otero, Alfonso Ariza <br/>
+**Keywords**: Internet of Things (IoT); custom IoT architecture; smart agriculture; smallholder; sensor and actuators; grafting <br/>
+**Date**: September, 2023 <br/><br/>
+
 ### 🔒🌿 [ Cyber Security for Detecting Distributed Denial of Service Attacks in Agriculture 4.0: Deep Learning Model ](https://www.mdpi.com/2227-7390/11/1/233)
 **Authors**: Theyazn H. H. Aldhyani, Hasan Alkahtani <br/>
 **Keywords**: deep leaning; Agriculture 4.0; food security; intrusion detection system; cybersecurity <br/>
