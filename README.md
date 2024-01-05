@@ -20,6 +20,11 @@
 **Keywords**: Internet of Things (IoT); custom IoT architecture; smart agriculture; smallholder; sensor and actuators; grafting <br/>
 **Date**: September, 2023 <br/><br/>
 
+### 💡🌿 [ Enhancing Smart Agriculture by Implementing Digital Twins: A Comprehensive Review ](https://www.mdpi.com/1424-8220/23/16/7128)
+**Authors**: Nikolaos Peladarinos, Dimitrios Piromalis, Vasileios Cheimaras, Efthymios Tserepas, Radu Adrian Munteanu, Panagiotis Papageorga <br/>
+**Keywords**: digital twins; smart agriculture-farming; agriculture 4.0; digital twin model; precision farming; IoT; sensors; simulation; 3D augmented reality; virtual reality; cyber-physical systems <br/>
+**Date**: August, 2023 <br/><br/>
+
 ### 🔒🌿 [ Cyber Security for Detecting Distributed Denial of Service Attacks in Agriculture 4.0: Deep Learning Model ](https://www.mdpi.com/2227-7390/11/1/233)
 **Authors**: Theyazn H. H. Aldhyani, Hasan Alkahtani <br/>
 **Keywords**: deep leaning; Agriculture 4.0; food security; intrusion detection system; cybersecurity <br/>
