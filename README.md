@@ -1,5 +1,10 @@
 # Smart Agriculture Research papers collection
 
+### 🤖🌿 [Current applications and potential future directions of reinforcement learning-based Digital Twins in agriculture ](https://www.sciencedirect.com/science/article/pii/S2772375524001175)
+**Authors**: Georg Goldenits, Kevin Mallinger, Sebastian Raubitzek, Thomas Neubauer <br/>
+**Keywords**: Automated harvesting; Crop management; Digital Twin; Greenhouse management; Irrigation management; Reinforcement learning; Sustainable agriculture <br/>
+**Date**: July, 2024 <br/><br/>
+
 ### 🍓🌿 [An Overview of Recent Advances in Greenhouse Strawberry Cultivation Using Deep Learning Techniques: A Review for Strawberry Practitioners ](https://www.mdpi.com/2073-4395/14/1/34)
 **Authors**: Jong-Won Yang, Hyun-Il Kim <br/>
 **Keywords**: precision farming; machine vision; deep learning; precision agriculture <br/>
