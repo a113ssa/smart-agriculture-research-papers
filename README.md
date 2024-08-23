@@ -40,6 +40,11 @@
 **Keywords**: agriculture robot; complex environments; robot navigation; robot manipulation <br/>
 **Date**: January, 2023 <br/><br/>
 
+### 💡🌿 [ DeCASA in AgriVerse: Parallel Agriculture for Smart Villages in Metaverses ](https://ieeexplore.ieee.org/document/9970437)
+**Authors**: Xiujuan Wang, Mengzhen Kang, Hequan Sun, Philippe de Reffye, Fei-Yue Wang <br/>
+**Keywords**: : Parallel Agriculture Management and Control; AgriVerse; Agriculture CPSS; ACP; DAO-Based Platform; Precision Agriculture <br/>
+**Date**: December, 2022 <br/><br/>
+
 ### 🚜🌿 [ A Vision-based Navigation System for an Agricultural Autonomous Tractor ](https://www.researchgate.net/publication/365668618_A_Vision-based_Navigation_System_for_an_Agricultural_Autonomous_Tractor)
 **Authors**: Sristi Saha, Tsuyoshi Morita, Noboru Noguchi, Ricardo Ospina <br/>
 **Keywords**: image segmentation, sliding window algorithm, lateral error, robot navigation, robot vision, road edge detection, precision agriculture <br/>
